@@ -1,4 +1,4 @@
-@INTA-1480
+@INTA-1481
 Feature: Default
 
 	Background:
@@ -17,7 +17,8 @@ Feature: Default
 		      | System     |	
 
 
-	
+
+
 	@INTA-1471 @INTA-1479
 	Scenario:  US2AC1TC1 Verify user access to the Oroinc Documentation page
 		Given the user logged in as "sales manager"
